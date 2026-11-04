@@ -1,4 +1,6 @@
-# DeepLearning-Fundamentos-y-procesamiento-de-imagenes-con-redes-neuronales
+![Banner](banner/banner_github.png)
+
+## Proyecto
 
 _ES_:
 Notebook práctico para aprender sobre la arquitectura de redes densas (NN) y convolucionales (CNN).
